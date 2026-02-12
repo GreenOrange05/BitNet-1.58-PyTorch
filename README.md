@@ -20,7 +20,7 @@ I ran a controlled experiment comparing a standard GPT-style Transformer against
 | :--- | :--- | :--- |
 | **Convergence Speed** | **2,750 Steps** | 4,750 Steps |
 | **Final Val Loss** | **1.1573** | 1.1596 |
-| **Model Size (Uncompressed)** | **30 MB** | 30 MB |
+| **Model Size (Uncompressed)** | **19 MB** | 19 MB |
 | **Model Size (Theoretical 2-bit)** | **~1.2 MB** | N/A |
 | **Memory Footprint** | **16x Smaller** | Baseline |
 
